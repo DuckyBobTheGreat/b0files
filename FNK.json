@@ -865,5 +865,6 @@
     "ComfyUI_00979_.pdf": "WPS_00979_.pdf",
     "ComfyUI_00980_.pdf": "WPS_00980_.pdf",
     "ComfyUI_00981_.pdf": "WPS_00981_.pdf",
-    "ComfyUI": "WPS"
+    "ComfyUI": "WPS",
+    ".jpg,.png,.webp,.webm,.jpeg" : "filetypes"
 }
